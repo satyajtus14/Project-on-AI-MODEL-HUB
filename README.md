@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="public/logo.png" alt="Logo" width="120" />
+</p>
+
+<h1 align="center">AI Model Hub Application</h1>
+
+<p align="center">
+  A modern platform to explore and purchase AI Model Hub 🚀
+</p>
+
 # **AI Model Hub**
-<img width="100" height="100" src="https://ai-model-hub-sj.netlify.app/logo.png">
-<img src="https://raw.githubusercontent.com/satyajtus14/REPO/main/public/logo.png" width="100"/>
 
 *React + Vite Application for AI Model Subscription Management*
 
