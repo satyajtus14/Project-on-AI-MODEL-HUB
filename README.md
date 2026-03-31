@@ -12,10 +12,9 @@
 
 *React + Vite Application for AI Model Subscription Management*
 
-# Netlify Live: https://ai-model-hub-sj.netlify.app/ 
-
-# GitHub Live: https://satyajtus14.github.io/Project-on-AI-MODEL-HUB/ 
----
+Netlify Live: https://ai-model-hub-sj.netlify.app/ 
+GitHub Live: https://satyajtus14.github.io/Project-on-AI-MODEL-HUB/ 
+-------------
 
 ## **1. Overview**
 The **AI Model Hub** is a web application built with **React, Vite, and Tailwind CSS** that allows users to browse, select, and subscribe to various AI models. The application provides a unified subscription model for accessing multiple AI services under a single plan.
