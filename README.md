@@ -12,7 +12,7 @@
 
 *React + Vite Application for AI Model Subscription Management*
 
-Netlify Live: https://ai-model-hub-sj.netlify.app/   
+Netlify Live: https://ai-modelhub-sj.netlify.app/   
 GitHub Live: https://satyajtus14.github.io/Project-on-AI-MODEL-HUB/ 
 -------------
 
